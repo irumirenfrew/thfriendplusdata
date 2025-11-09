@@ -1,0 +1,10 @@
+IrumiSystem.InternetPosterBoard v0.1 2023-07-13T12:00:00
+settings showcontrol=True,timer=10
+00 frame.r=3.560,frame.g=1.898,frame.b=1.223
+01 frame.r=4,frame.g=1.6,frame.b=2.729
+02 frame.r=0,frame.g=0.961,frame.b=2.8
+03 frame.r=0,frame.g=0.961,frame.b=2.8
+04 frame.r=3,frame.g=2,frame.b=1.5
+05 frame.r=3,frame.g=2,frame.b=1.5
+06 frame.r=3,frame.g=2,frame.b=1.5
+07 frame.r=3,frame.g=2,frame.b=1.5
