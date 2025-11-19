@@ -1,0 +1,15 @@
+IrumiSystem.InternetPosterBoard v0.1 2023-07-13T12:00:00
+settings showcontrol=True,timer=10
+00 frame.r=3.560,frame.g=1.898,frame.b=1.223,comment=2Hour
+01 frame.r=4,frame.g=1.6,frame.b=2.729,comment=Poring
+02 frame.r=0,frame.g=0.961,frame.b=2.8,comment=Iyen
+03 frame.r=0,frame.g=0.961,frame.b=2.8,comment=KapooPro
+04 frame.r=3,frame.g=2,frame.b=1.5,comment=LorILam
+05 frame.r=3,frame.g=2,frame.b=1.5,comment=Ministar
+06 frame.r=3,frame.g=2,frame.b=1.5,comment=Mitsuhana
+07 frame.r=3,frame.g=2,frame.b=1.5,comment=Nexto
+08 frame.r=3,frame.g=2,frame.b=1.5,comment=Sangjan
+09 frame.r=3,frame.g=2,frame.b=1.5,comment=SOShop
+0a frame.r=3,frame.g=2,frame.b=1.5,comment=Singsiam
+0b frame.r=3,frame.g=2,frame.b=1.5,comment=Teapot
+0c frame.r=3,frame.g=2,frame.b=1.5,comment=Aiko
